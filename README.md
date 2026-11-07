@@ -9,7 +9,7 @@ This repository collects those principles.
 ## Articles
 
 - [An agent's report is not evidence](https://github.com/lucianomanetta/murphy/blob/main/docs/an-agents-report-is-not-evidence.md) — why a coding agent's own account of what it did is a claim, not a record, and what an independent record has to contain.
-- [Shipping regulated systems with coding agents](articles/shipping-regulated-systems-with-coding-agents.md) — multi-tenancy, mutual TLS to government APIs, and the five decisions that leave the agent's reach before any code is written.
+- [Shipping regulated systems with coding agents](https://github.com/lucianomanetta/scrap/blob/main/docs/shipping-regulated-systems-with-coding-agents.md) — multi-tenancy, mutual TLS to government APIs, and the five decisions that leave the agent's reach before any code is written.
 
 ## Principles
 
